@@ -3,9 +3,26 @@ layout: default
 title: Home
 ---
 
-<head>
-  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-</head>
+<style>
+  /* Custom inline CSS to center the text */
+  body {
+    text-align: center;
+  }
+
+  h1, h2, h3, p {
+    text-align: center;
+  }
+
+  /* Optional: Center the content area vertically */
+  .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+</style>
 
 # Takdanai Kreangphet
 
