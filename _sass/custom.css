@@ -1,0 +1,20 @@
+@import 'custom';
+/* Center all text in the body */
+body {
+  text-align: center;
+}
+
+/* Center headers and paragraphs */
+h1, h2, h3, p {
+  text-align: center;
+}
+
+/* Optional: Center the content area vertically */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
