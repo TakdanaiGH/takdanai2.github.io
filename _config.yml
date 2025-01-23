@@ -3,7 +3,3 @@ logo: img/moodeng.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-sass:
-  sass_dir: _sass  # Directory for your SCSS files
-  style: compressed  # Output style (compressed or expanded)
-
