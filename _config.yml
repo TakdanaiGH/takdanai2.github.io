@@ -1,4 +1,7 @@
+url: "https://takdanai.github.io"
+baseurl: ""
 title: Takdanai
+
 logo: img/moodeng.png
 #description: text below image
 show_downloads: false
